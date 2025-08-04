@@ -68,3 +68,17 @@ script.js # JavaScript for recommendation form
 ## 🚀 How to Run
 
 1. Clone this repository:
+git clone https://github.com/Swaeba-Bilal/portfolio-html-css-js
+2. Open `index.html` in any web browser.
+
+> ⚠️ Note: This is a **static frontend project** and does not use a server or database.
+
+---
+
+## 🙋‍♀️ About Me
+
+I'm **Swaeba Bilal**, a Computer Science student passionate about Java development and currently learning frontend web technologies. This portfolio project is part of my academic learning and a step toward becoming a well-rounded developer.
+
+---
+
+
